@@ -1,0 +1,22 @@
+div {
+  border: 2px solid black;
+  
+}
+header {
+  border: 2px solid black;
+  font-family: Arial;
+  font-weight: bold;
+}
+path {
+  fill: black;
+}
+path:hover {
+  fill: red;
+}
+
+path:active {
+  fill: rgb(95, 0, 0);
+}
+header{
+  background-color: gray;
+}
